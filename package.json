@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/KaisarCode/js-paginate-res.git"
+    "url": "https://github.com/kaisarsnippets/js-paginate-res.git"
   },
   "keywords": [
     "paginate",
@@ -14,9 +14,9 @@
   "author": "KaisarCode",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/KaisarCode/js-paginate-res/issues"
+    "url": "https://github.com/kaisarsnippets/js-paginate-res/issues"
   },
-  "homepage": "https://github.com/KaisarCode/js-paginate-res",
+  "homepage": "https://github.com/kaisarsnippets/js-paginate-res",
   "dependencies": {
     "fun2mod": "^1.0.5"
   }
